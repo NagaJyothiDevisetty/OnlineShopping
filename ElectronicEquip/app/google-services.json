@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331861537925",
+    "firebase_url": "https://electronicequipment-f4962.firebaseio.com",
+    "project_id": "electronicequipment-f4962",
+    "storage_bucket": "electronicequipment-f4962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331861537925:android:df0e7f650c6fcb61e6a5ec",
+        "android_client_info": {
+          "package_name": "com.example.electronicequipment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331861537925-l5og452dklpiucq30ccu02d0r4h5d97a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electronicequipment",
+            "certificate_hash": "a7bb69c8fcbc3dc4a150547eefe624ab99fbd850"
+          }
+        },
+        {
+          "client_id": "331861537925-0blqbkuokh67tl653d3bfe76m97mvr1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv1q5x9qayZ8eCCSO4KOxIiyOzTWEYYUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331861537925-0blqbkuokh67tl653d3bfe76m97mvr1d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
